@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/Levels/Dune.umap",
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_2K.uasset",
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/GenNoise_Dune.uasset",
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/Materials/M_DustCloud.uasset",
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/oleg/Documents/Unreal Projects/Dune/Content/Materials/M_DustCloud_Inst.uasset"
+			]
+		}
+	]
+}
